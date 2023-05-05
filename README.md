@@ -1,3 +1,5 @@
+ a two-team score counter in React would involve creating a component that manages the state of the scores for each team, and then rendering this component with buttons that allow users to increment or decrement those scores. With some additional features and styling, you could create a fully functional and user-friendly scoreboard for tracking the scores of any two teams!
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
